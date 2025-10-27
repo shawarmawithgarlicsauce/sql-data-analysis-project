@@ -10,6 +10,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Adib**. I created this project as a means of learning through practicality. The video below is the tutorial I followed for this tutorial:
+Hi there! I'm **Adib**. I created this project as a means of learning through practicality. The video below is the tutorial I followed for this project:
 
 https://www.youtube.com/watch?v=2jGhQpbzHes&t=186s
